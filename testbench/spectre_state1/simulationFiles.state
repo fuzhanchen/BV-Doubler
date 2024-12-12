@@ -1,0 +1,21 @@
+EVcdFile ""
+EVcdInfoFile ""
+VcdFile ""
+VcdInfoFile ""
+VectorFile nil
+allDefinitionFiles nil
+allDspfFiles nil
+allEVcdFiles nil
+allIncludedPaths ((t "/usr/eelocal/gf/gf130HPSIGE_8XP/V1_8_6_0b/Models/Spectre/models"))
+allPspiceFiles nil
+allSpefFiles nil
+allStimulusFiles nil
+allVcdFiles nil
+allVectorFiles nil
+definitionFiles nil
+dspfFile nil
+hlcheck "off"
+includePath "/usr/eelocal/gf/gf130HPSIGE_8XP/V1_8_6_0b/Models/Spectre/models"
+pspiceFile nil
+spefFile nil
+stimulusFile nil
